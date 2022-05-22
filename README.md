@@ -5,4 +5,4 @@ The circuit was design on an online platform known as <a href="https://www.tinke
 
 #### Experiments
 
-<img src="images/capture.jpeg"/>
+<img src="images/capture.jpg"/>
